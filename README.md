@@ -1,4 +1,4 @@
-<img width="433" height="322" alt="image" src="https://github.com/user-attachments/assets/89cd3b68-01ea-4262-9e1c-545a9469d72c" /># 🏢 Projeto de Redes Corporativas — Tech Solutions
+# 🏢 Projeto de Redes Corporativas — Tech Solutions
 
 Este repositório contém a documentação e a topologia oficial desenvolvida no **Cisco Packet Tracer** para a infraestrutura de rede corporativa da empresa **Tech Solutions**.
 
