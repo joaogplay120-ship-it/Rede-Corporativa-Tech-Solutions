@@ -6,14 +6,13 @@ Este repositório contém a documentação e a topologia oficial desenvolvida no
 
 ## 👥 Integrantes do Grupo
 
-João Marcos Marques Silva
-Julia Medeiros Evangelista
-Lara Pereira Alves
-João Gabriel Soares Alves da Silva
-Esther da Silva Marques
-Anna Yasmin Alves Ferreira
-Heveli Ribeiro Pereira
-
+- João Marcos Marques Silva
+- Julia Medeiros Evangelista
+- Lara Pereira Alves
+- João Gabriel Soares Alves da Silva
+- Esther da Silva Marques
+- Anna Yasmin Alves Ferreira
+- Heveli Ribeiro Pereira
 ---
 
 ## 📖 Descrição do Cenário
