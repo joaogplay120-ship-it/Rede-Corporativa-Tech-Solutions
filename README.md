@@ -1,10 +1,10 @@
-# 🏢 Projeto de Redes Corporativas — Tech Solutions
+# - Projeto de Redes Corporativas — Tech Solutions
 
 Este repositório contém a documentação e a topologia oficial desenvolvida no **Cisco Packet Tracer** para a infraestrutura de rede corporativa da empresa **Tech Solutions**.
 
 ---
 
-## 👥 Integrantes do Grupo
+## - Integrantes do Grupo
 
 - João Marcos Marques Silva
 - Julia Medeiros Evangelista
@@ -15,7 +15,7 @@ Este repositório contém a documentação e a topologia oficial desenvolvida no
 - Heveli Ribeiro Pereira
 ---
 
-## 📖 Descrição do Cenário
+## - Descrição do Cenário
 
 A **Tech Solutions** necessitava de uma modernização em sua infraestrutura de rede local para garantir isolamento de tráfego, segurança entre departamentos e automação na distribuição de endereços IP.
 
@@ -26,14 +26,14 @@ A solução implementada conta com:
 - **Agente de Relé DHCP (DHCP Relay):** Configuração do recurso `ip helper-address` na sub-interface da VLAN 20 do roteador para repassar as requisições de IP ao servidor central.
 
 ---
-
-## 📊 Tabela de Endereçamento IP e VLANs
+## - Vídeo de Apresentação: https://youtu.be/Hpp_HNxJD9M
+## - Tabela de Endereçamento IP e VLANs
 
 <img width="753" height="1086" alt="Image" src="https://github.com/user-attachments/assets/e6ff5971-3345-4b80-acc0-ea4da212e498" />
 
 ---
 
-## 🛠️ Blocos de Comandos para Auditoria (IOS CLI)
+## - Blocos de Comandos para Auditoria (IOS CLI)
 
 ### 1. Roteador Principal (Cisco 1941)
 ```
